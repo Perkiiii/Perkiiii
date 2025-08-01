@@ -3,8 +3,6 @@
 
 # Hi there, I'm **Sam Perkins**! <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40" height="40" />
 
----
-
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40"/> About Me
 
 🎮 **Game Programming & Design student based in Oslo, Norway**

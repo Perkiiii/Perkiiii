@@ -62,9 +62,4 @@ I’m looking for junior, graduate, internship, or placement opportunities in **
 
 I’m especially interested in teams where I can help prototype mechanics, implement gameplay features, tune player-facing systems, and support designers with practical tools and workflows.
 
----
 
-<p align="center">
-  <a href="https://www.samuelperkins.co.uk/"><strong>Portfolio</strong></a> ·
-  <a href="mailto:samuelperkins.dev@gmail.com"><strong>Email</strong></a>
-</p>

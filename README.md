@@ -53,13 +53,3 @@ I’m especially interested in technical design, gameplay programming, systems d
 **Core:** Unity, C#, gameplay systems, prototyping, ScriptableObjects, player controllers  
 **Familiar with:** Unreal Engine, Blueprints, C++, Jira, GitHub workflows  
 **Interests:** combat feel, progression systems, metroidvania design, technical design tools
-
----
-
-### What I’m Looking For
-
-I’m looking for junior, graduate, internship, or placement opportunities in **Technical Design**, **Gameplay Programming**, or **Game Design**.
-
-I’m especially interested in teams where I can help prototype mechanics, implement gameplay features, tune player-facing systems, and support designers with practical tools and workflows.
-
-

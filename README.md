@@ -25,7 +25,7 @@ I’m especially interested in technical design, gameplay programming, systems d
 | Project | Focus | Tech |
 |---|---|---|
 | [**Underbrew**](https://www.samuelperkins.co.uk/portfolio/underbrew/) | Progression, crafting, inventory, dialogue, quests, save data | Unity, C#, ScriptableObjects |
-| **Metroidvania Controller** | 2D movement feel, ability states, input handling, controller architecture | Unity, C#, Input System, Rigidbody2D |
+| **Metroidvania Controller** | 2D movement feel, ability states, input handling, controller architecture | Unity, C#, New Input System |
 
 ---
 

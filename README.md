@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Technical Designer / Gameplay Programmer</strong><br>
-  Unity · C# · Gameplay Systems · Prototyping · Player-Facing Features
+  Unity · C# · Unreal Engine · Gameplay Systems · Prototyping · Player-Facing Features
 </p>
 
 <p align="center">
